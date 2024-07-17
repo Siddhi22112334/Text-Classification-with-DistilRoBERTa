@@ -10,11 +10,13 @@ The dataset is organized under the `data` directory, and it includes several dom
 
 1. Clone the repository:
    ```bash
+   
    git clone https://github.com/Siddhi22112334/Text-Classification-with-DistilRoBERTa.git
    cd Text-Classification-with-DistilRoBERTa.git
 
 
    pip install -r requirements.txt
+
 
    python scripts/train_model.py
 
