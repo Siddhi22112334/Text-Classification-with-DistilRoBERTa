@@ -18,5 +18,5 @@ The dataset is organized under the `data` directory, and it includes several dom
    pip install -r requirements.txt
 
 
-   python scripts/train_model.py
+   python train.py
 
